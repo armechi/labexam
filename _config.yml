@@ -3,8 +3,8 @@ title: notsleek # your site title
 author: armechi # You :P
 description: > # Meta description of Homepage
   Hey! welcome!
-baseurl: "/notsleek" # the subpath of your site, e.g. /blog
-url: "https://notsleek.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/labexam" # the subpath of your site, e.g. /blog
+url: "https://armechi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
