@@ -3,22 +3,11 @@ layout: page
 title: Courses
 permalink: /courses/
 ---
-|    |    | **Experience**                                                             |
-|----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
-|----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
-|----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
-|----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
-
-
-
-|     |    |**Education**                                                               |
-|-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+i didn't have time to write them all
+| fc      | 1402-1 |20      |
+|---------|--------|--------|
+|Flab     |1402-1  |20      |
+|---------|--------|--------|
+|gen math1|1402-1  |17      |
+|---------|--------|--------|
+|AP       |1402-2  |17      |
