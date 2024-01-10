@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Website
-featured-img: /assets/images/Screenshot (97).png
+featured-img: Screenshot (97).png
 mathjax: true
 ---
 [link to my website](armechi.github.io)
